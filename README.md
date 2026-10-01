@@ -1,0 +1,1 @@
+Redirects www.synapse.adovadigital.com to https://synapse.adovadigital.com (path kept). Exists because Cloudflare's free Universal SSL does not cover second-level subdomains; GitHub Pages issues the cert for free. Created 2026-10-01.
